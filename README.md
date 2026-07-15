@@ -6,7 +6,8 @@ This project analyzes retail transaction data using SQL to generate business ins
 
 ## Dataset
 
-Online Retail Transaction Dataset
+The dataset used for this project is the **Online Retail Dataset** from Kaggle.
+http://kaggle.com/datasets/vipin20/transaction-data
 
 ## Tools Used
 
@@ -24,4 +25,4 @@ Online Retail Transaction Dataset
 ## Files
 
 - sql_queries.sql
-- transaction_data.csv
+
