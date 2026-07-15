@@ -1,4 +1,4 @@
-# Online-Retail-Analytics-using-SQL
+# Retail-Analytics-using-SQL
 
 ## Project Overview
 
