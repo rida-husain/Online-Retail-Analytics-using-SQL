@@ -24,4 +24,4 @@ Online Retail Transaction Dataset
 ## Files
 
 - sql_queries.sql
-- online_retail.csv
+- transaction_data.csv
